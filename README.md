@@ -1,6 +1,6 @@
 # Controle de Compras
 
-![Untitled_ May 30, 2023 9_30 PM](https://github.com/FabianeElla/ControleDeCompras/assets/124746177/e3397e46-bcf7-48ae-a416-5bd030e02174)
+![Untitled_ May 30, 2023 9_40 PM](https://github.com/FabianeElla/ControleDeCompras/assets/124746177/7272e001-31a0-4454-ac7a-de2f2701b422)
 
 ## Propósito
 
