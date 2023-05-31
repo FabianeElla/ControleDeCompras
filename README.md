@@ -4,8 +4,8 @@ Este é um projeto de Controle de Compras desenvolvido como parte de um estudo s
 
 ## Funcionalidades
 
-*Adicionar itens de compra à lista
-*Visualizar a lista de compras atual
-*Ordenar a lista por ordem crescente de valor
+* Adicionar itens de compra à lista
+* Visualizar a lista de compras atual
+* Ordenar a lista por ordem crescente de valor
 
 
