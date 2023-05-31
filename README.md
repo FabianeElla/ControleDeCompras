@@ -1,6 +1,6 @@
 # Controle de Compras
 
-<iframe src="https://drive.google.com/file/d/1EaEHZ70TT4D9sZ-I2K880qNO0ok2BmSL/preview" width="640" height="480"></iframe>
+![Untitled_ May 30, 2023 9_30 PM (1)](https://github.com/FabianeElla/ControleDeCompras/assets/124746177/5aebcbea-2a71-47c2-b5d7-c9b7d1605fc7)
 
 ## Propósito
 
